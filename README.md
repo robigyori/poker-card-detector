@@ -11,7 +11,7 @@ What to expect from this module:
 - input = an image containing at least one pocker card
 - output = a list of recognized poker cards
 
-## Why not re-using and existing github project
+## Why not re-using an existing github project
 As mentioned above, this is NOT a proof of concept and I want to use this recognizer in a real life situation.
 Which means that the recognizer must:
 - work for images which contain 1 card
